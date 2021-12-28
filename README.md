@@ -43,6 +43,16 @@ to estimate the motion of echo videos and observe the results for left ventricle
   ## 3. Run the Application  
         Open the file in MATLAB and click on Run.
 
-<video width="320" height="240" controls>
-  <source src="assets/videos/echo1.avi" type="video/mp4">
-</video>
+# Motion Estimation of Echo1 Video
+## Focus on the left ventricle in dedection of heart attack in these vedios. Please watch the arrows.
+
+### Echo 1
+<div float="left">
+  <img src="assets/images/echo1Motion.jpg"/> 
+</div>
+
+
+### Echo 2
+<div float="left">
+  <img src="assets/images/echo2Motion.jpg"/> 
+</div>
