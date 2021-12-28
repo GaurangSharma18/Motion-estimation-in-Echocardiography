@@ -56,3 +56,8 @@ to estimate the motion of echo videos and observe the results for left ventricle
 <div float="left">
   <img src="assets/images/echo2Motion.jpg"/> 
 </div>
+
+
+# Summary
+The Echo1 has a healthy heart since the left ventricle wall is moving.
+Furthermore, Echo1 has arrows going inside, indicating that it has an oxygen supply. However, Echo2 has arrows heading outside, indicating that it is begging for oxygen and that the heart is contracting.
