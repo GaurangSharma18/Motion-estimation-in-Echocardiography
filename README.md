@@ -39,7 +39,7 @@ the motion of the left ventricle wall in echo videos.
   ## 3. Run the Application  
         Open the file in MATLAB and click on Run.
 
-# Motion Estimation of Echo1 Video
+# Motion Estimation of Echo1 Video (Results)
 ## Focus on the left ventricle in dedection of heart attack in these vedios. Please watch the arrows.
 
 ### Echo 1
