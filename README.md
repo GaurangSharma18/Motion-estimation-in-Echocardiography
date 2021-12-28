@@ -6,12 +6,8 @@ muscle. By the time, cardiac cells cannot get enough oxygen because of the block
 start to die. The death of the cardiac cells accumulates, and at the end, MI happens.
 
 Echocardiography (echo) is a non-invasive imaging technique that can monitor the heart in real time
-from different views using ultrasound technology. Figure 1 shows an example echo image where the
-bright pixels represent the heart muscle and the dark pixels inside the heart sections (right/ left
-ventricle and right/ left atrium) are blood. Cardiologists decide on the possibility of MI by examining
-the motion of the left ventricle wall in echo videos (see Figure 1). Therefore, in this exercise we need
-to estimate the motion of echo videos and observe the results for left ventricle wall.
-
+from different views using ultrasound technology. Cardiologists decide on the possibility of MI by examining
+the motion of the left ventricle wall in echo videos. 
 
 
 # Getting Started
